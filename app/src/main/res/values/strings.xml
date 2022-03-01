@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpanishVocab</string>
+    <string name="word_activity_title">Guess</string>
+
+    <string name="purpose_key">purposeKey</string>
+    <string name="spanish_word_key">spanishWordKey</string>
+    <string name="english_word_key">englishWordKey</string>
+    <string name="correct_word_key">correctWordKey</string>
+    <string name="position_key">positionWordKey</string>
+    <string name="update_key">updateKey</string>
+
+</resources>
