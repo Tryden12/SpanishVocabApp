@@ -1,6 +1,4 @@
 # SpanishVocabApp
-
-
 This is a simple Spanish to English word translating app. 
 
 A document containing 1000+ Spanish words with their
