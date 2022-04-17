@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tryden.spanishvocab">
+    package="com.tryden.spanishvocab" >
     <!-- Access Internet Music for MediaPlayer -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -11,19 +11,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SpanishVocab">
+        android:theme="@style/Theme.SpanishVocab" >
         <activity
-            android:name="com.tryden.spanishvocab.WordActivity"
-            android:label="@string/word_activity_title"
-            android:exported="false" />
+            android:name=".WordActivity"
+            android:exported="false"
+            android:label="@string/word_activity_title" />
         <activity
-            android:name="com.tryden.spanishvocab.MainActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:label="Home Page" />
         <activity
-            android:name="com.tryden.spanishvocab.SplashScreen"
+            android:name=".SplashScreen"
             android:exported="true"
-            android:theme="@style/SplashScreen">
+            android:theme="@style/SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

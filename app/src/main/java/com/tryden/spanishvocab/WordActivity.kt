@@ -21,7 +21,7 @@ class WordActivity : AppCompatActivity(), View.OnClickListener {
         binding = ActivityWordBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val intent = getIntent()
+        val intent = intent
 
         // Get values from MainActivity
         val spanishWord:String = intent
