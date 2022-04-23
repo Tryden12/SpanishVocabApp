@@ -46,5 +46,6 @@ A user can ...
 ![Home Screen](/screenshots/home1.png?raw=true "Home Screen")
 ![Word Guess](/screenshots/wordguess.png?raw=true "Word Guess")
 ![Wrong Guess](/screenshots/wrong.png?raw=true "Wrong Guess")
+![Right Guess](/screenshots/right.png?raw=true "Right Guess")
 
 
