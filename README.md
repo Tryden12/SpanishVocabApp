@@ -42,6 +42,7 @@ A user can ...
 <br />
 
 # Screenshots:
+![Splash Screen](/screenshots/splash.png?raw=true "Splash Screen")
 ![Home Screen](/screenshots/home1.png?raw=true "Home Screen")
 
 
