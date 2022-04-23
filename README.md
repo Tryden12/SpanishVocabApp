@@ -44,5 +44,6 @@ A user can ...
 # Screenshots:
 ![Splash Screen](/screenshots/splash.png?raw=true "Splash Screen")
 ![Home Screen](/screenshots/home1.png?raw=true "Home Screen")
+![Word Guess](/screenshots/wordguess.png?raw=true "Word Guess")
 
 
